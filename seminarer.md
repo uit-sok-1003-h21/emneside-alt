@@ -1,8 +1,7 @@
 {% include navbar.html %}
 ## Seminarer
 
-- Arbeidskrav er obligatoriske. Karakter settes ikke på disse.
-- Mappeoppgaver er obligatoriske, og danner grunnlag for karakter A-F på kurset.  
+ 
 
 
 | <img width=120/>|  Tema <img width=300/>       |
