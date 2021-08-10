@@ -28,7 +28,7 @@ Ingen
 
 Undervisningsplanen inneholder kronologisk rekkefølge over de temaer som gjennomgså, og lenker til forelesningsnotater. Timeplanen viser tidspunkt og sted for forelesningene og seminarer.
 
-- [Undervisningsplan](lectures.md){:target="blank"}
+- [Forelesningsplan](forelesningsplan.md){:target="blank"}
 
 - [Timeplan på timeplan.uit.no](http://timeplan.uit.no/emne_timeplan.php?sem=21v&module[]=SOK-1003-1#week-23){:target="blank"}
 
