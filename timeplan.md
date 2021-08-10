@@ -15,7 +15,7 @@ th {
   border-bottom: 1px solid black;
 }
 </style>								
-<h2>SOK-1003 Python lab undervisningsplan</h2><br>								
+<h2>SOK-1003 Python lab forelesningsplan</h2><br>								
 <p>Jupyter-notatene er under utvikling og blir endret fortløpende, men større endringer vil skje senest to uker før den tilhørende forelesningen. </p><br>								
 <table>
   <colgroup>
