@@ -1,4 +1,4 @@
-{% include navbar.html %}
+{% include navbar_open.html %}
 <style>
 table {
   width:100%;
