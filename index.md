@@ -30,7 +30,7 @@ Undervisningsplanen inneholder kronologisk rekkefølge over de temaer som gjenno
 
 - [Forelesningsplan](forelesningsplan.md){:target="blank"}
 
-- [Timeplan på timeplan.uit.no](http://timeplan.uit.no/emne_timeplan.php?sem=21v&module[]=SOK-1003-1#week-23){:target="blank"}
+- [Timeplan på timeplan.uit.no](http://timeplan.uit.no/emne_timeplan.php?sem=21h&module%5B%5D=SOK-1003-1){:target="blank"}
 
 
 ## Kunngjøringer  
