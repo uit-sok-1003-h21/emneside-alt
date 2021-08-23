@@ -32,6 +32,8 @@ Undervisningsplanen inneholder kronologisk rekkefølge over de temaer som gjenno
 
 - [Timeplan på timeplan.uit.no](http://timeplan.uit.no/emne_timeplan.php?sem=21h&module%5B%5D=SOK-1003-1){:target="blank"}
 
+- [Automatisk opptak på Mediasite](https://mediasite.uit.no/Mediasite/Catalog/Full/dcf1cefd1c1f4c8fb684abd0b45c580e21)
+
 
 ## Kunngjøringer  
 
