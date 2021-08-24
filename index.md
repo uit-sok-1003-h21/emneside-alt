@@ -13,7 +13,7 @@ Kurset tas normalt i første høstsemester, og teller 5 studiepoeng.
 
 [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"} (fagansvarlig)
 
-<a href=edgardo.d.salinas@uit.no>Edgardo Salinas</a> (seminar/studenthjelp, [alternativ mail](berlin1980e@gmail.com))
+Edgardo Salinas(seminar/studenthjelp, <aedgardo.d.salinas@uit.no>, <berlin1980e@gmail.com>)
 
 
 
