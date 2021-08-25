@@ -1,0 +1,21 @@
+# Installere Python, git og Jupyter på Windows
+
+1. Installere python 3.8.10
+    1. Google «install python 3.8»
+    2. Velg «3.8.10»
+    3. Velg 
+    4. Installer for alle brukere (krever elevering/admin login)
+  
+2. Installere git
+    1. Google "install git"
+    2. Velg "Downloads - Git"
+    3. Last ned og installer for alle brukere (krever elevering/admin login)
+  
+3. Installere Jupyter lab
+    1. åpne kommandovinduet: trykk på windowsknappen, skriv "cmd" og start "Command Promt"/"Ledetekst". 
+    2. Skriv så inn `cd Documents`
+
+Resten er beskrevet i ["1 - intro.ipynb"](https://github.com/uit-sok-1003-h21/notebooks/blob/main/1%20-%20intro.ipynb)
+
+
+
