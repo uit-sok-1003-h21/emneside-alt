@@ -13,7 +13,9 @@
   
 3. Installere Jupyter lab
     1. åpne kommandovinduet: trykk på windowsknappen, skriv "cmd" og start "Command Promt"/"Ledetekst". 
-    2. Skriv så inn `cd Documents`
+    2. Skriv inn `pip install jupyterlab`
+
+4. 
 
 
 
