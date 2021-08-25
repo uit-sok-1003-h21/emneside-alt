@@ -15,7 +15,7 @@
     1. åpne kommandovinduet: trykk på windowsknappen, skriv "cmd" og start "Command Promt"/"Ledetekst". 
     2. Skriv så inn `cd Documents`
 
-Resten er beskrevet i ["1 - intro.ipynb"](https://github.com/uit-sok-1003-h21/notebooks/blob/main/1%20-%20intro.ipynb)
+
 
 
 
