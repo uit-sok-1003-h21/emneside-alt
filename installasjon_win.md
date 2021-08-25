@@ -3,8 +3,8 @@
 1. Installere python 3.8.10
     1. Google «install python 3.8»
     2. Velg «3.8.10»
-    3. Velg 
-    4. Installer for alle brukere (krever elevering/admin login)
+    3. Velg filen «Windows x86-64 executable installer»  
+    4. Installer for alle brukere (krever elevering/admin login) og **hak av for å legge til "PATH"**. 
   
 2. Installere git
     1. Google "install git"
