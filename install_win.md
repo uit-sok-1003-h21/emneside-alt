@@ -1,3 +1,4 @@
+{% include navbar_open.html %}
 # Installere Python, git og Jupyter på Windows
 
 1. Installere python 3.8.10
