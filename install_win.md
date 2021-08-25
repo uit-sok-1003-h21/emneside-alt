@@ -8,7 +8,7 @@
     4. Installer for alle brukere (krever elevering/admin login) og **hak av for å legge til "PATH"**. 
   
 2. Installere git
-    1. Google ["install git"](https://www.google.com/search?q=install+git)
+    1. Google ["install download git"](https://www.google.com/search?q=install+download+git)
     2. Velg "Downloads - Git"
     3. Last ned og installer for alle brukere (krever elevering/admin login)
   
