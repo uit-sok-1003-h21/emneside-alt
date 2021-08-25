@@ -39,7 +39,7 @@ Undervisningsplanen inneholder kronologisk rekkefølge over de temaer som gjenno
 
 ## Forelesninger
 
-- [Automatisk opptak på Mediasite](https://mediasite.uit.no/)
+- [Automatisk opptak på Mediasite](https://mediasite.uit.no/Mediasite/Channel/b5ed2471bf8e45aaa161225fe36e0c645f/watch/3865728a718e4785b303819d02ee996d1d)
 
 - [Zoom-lenke (for chat-mulighet)](https://uit.zoom.us/j/66828719747?pwd=SUVRbXJ3NXFGMkFuelh2akVFeFloZz09)
 
