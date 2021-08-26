@@ -23,7 +23,7 @@ Før du begynner må du sørge for at du har adminrettigheter
   
 3. Installere Jupyter lab
     1. åpne kommandovinduet: Åpne finder og skriv "terminal" i søkefeltet og åne terminal. 
-    2. Skriv inn `pip install jupyterlab`
+    2. Skriv inn `pip3 install jupyterlab`
 
 ## Hente kursmateriell fra github
 
