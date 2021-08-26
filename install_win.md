@@ -13,12 +13,12 @@
     3. Last ned og installer for alle brukere (krever elevering/admin login)
   
 3. Installere Jupyter lab
-    1. åpne kommandovinduet: Skriv "cmd" i søkefeltet på maskinen, og start "Command Promt"/"Ledetekst". 
+    1. åpne kommandovinduet: Skriv "cmd" i søkefeltet på maskinen, HØYREKLIKK og start "Command Promt"/"Ledetekst" SOM ADMIN. 
     2. Skriv inn `pip install jupyterlab`
 
 ## Hente kursmateriell fra github
 
-For å hente filene til Jupyter gjør du slik:
+For å hente filene til Jupyter  åpner du kommanovinduet på nytt, men denne gangen UTEN Å HØYREKLIKKET, siden du nå skal arbeidet på ditt hjemmeområde. Videre gjør du slik:
 
 2. Lag en ny mappe på ditt hjemmeområde ved å skrive inn i terminalvinduet
 
