@@ -35,7 +35,7 @@ For å hente filene til Jupyter gjør du slik:
 5. Filene på github kommer til å endres, og da må du oppdatere dem. Det kan derfor være lurt å ha en 
 kopi av notebooks-folderen hvor du kan gjøre egne endringer som ikke overskrives når du henter oppdaterte notater.For å lage en slik kopi skriver du:
         
-```xcopy notebooks notebooks_edit```
+```copy notebooks notebooks_edit```
         
 6. For å åpne filene i "notebooks_edit"-mappen i jupyter lab skriver du
 ```
