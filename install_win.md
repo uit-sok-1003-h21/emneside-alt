@@ -1,6 +1,8 @@
 {% include navbar_open.html %}
 # Installere Python, git og Jupyter på Windows
 
+[Se video her!](https://mediasite.uit.no/Mediasite/Play/636342e259e441ffa5776b2ec3ebf29c1d)
+
 1. Installere python 3.8.10
     1. Google [«install python 3.8.10»](https://www.google.com/search?q=install+python+3.8.10){:target="blank"}
     2. Velg «3.8.10»
