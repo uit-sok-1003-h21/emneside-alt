@@ -1,5 +1,7 @@
 {% include navbar_open.html %}
-# Installere Python, git og Jupyter på Windows
+# Installere Python, git og Jupyter på Mac
+
+Før du begynner må du sørge for at du har adminrettigheter
 
 1. Installere python 3.8.10
     1. Google [«install python 3.8.10»](https://www.google.com/search?q=install+python+3.8.10){:target="blank"}
@@ -13,7 +15,7 @@
     3. Last ned og installer for alle brukere (krever elevering/admin login)
   
 3. Installere Jupyter lab
-    1. åpne kommandovinduet: Skriv "cmd" i søkefeltet på maskinen, og start "Command Promt"/"Ledetekst". 
+    1. åpne kommandovinduet: Åpne finder og skriv "terminal" i søkefeltet og åne terminal. 
     2. Skriv inn `pip install jupyterlab`
 
 ## Hente kursmateriell fra github
@@ -35,7 +37,7 @@ For å hente filene til Jupyter gjør du slik:
 5. Filene på github kommer til å endres, og da må du oppdatere dem. Det kan derfor være lurt å ha en 
 kopi av notebooks-folderen hvor du kan gjøre egne endringer som ikke overskrives når du henter oppdaterte notater.For å lage en slik kopi skriver du:
         
-```xcopy notebooks notebooks_edit```
+```cp -r notebooks notebooks_edit```
         
 6. For å åpne filene i "notebooks_edit"-mappen i jupyter lab skriver du
 ```
