@@ -6,8 +6,9 @@ Før du begynner må du sørge for at du har adminrettigheter
 1. Installere python 3.8.10
     1. Google [«install python 3.8.10»](https://www.google.com/search?q=install+python+3.8.10){:target="blank"}
     2. Velg «3.8.10»
-    3. Velg filen «Windows x86-64 executable installer»  
-    4. Installer for alle brukere (krever elevering/admin login) og **hak av for å legge til "PATH"**. 
+    3. Klikk på eplet->"About this mac" for å finne ut om du har intel eller apple-chip.
+    4. Velg filen «macOS 64-bit Intel installer» eller  «macOS 64-bit universal2 installer» avhengig av om du har intel eller ikke.
+    5. Installer for alle brukere (krever elevering/admin login) og **hak av for å legge til "PATH"**. 
   
 2. Installere git
     1. Google ["install download git"](https://www.google.com/search?q=install+download+git){:target="blank"}
