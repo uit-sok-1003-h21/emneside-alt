@@ -1,6 +1,8 @@
 {% include navbar_open.html %}
 # Installere Python, git og Jupyter på Mac
 
+[Se video her!](https://mediasite.uit.no/Mediasite/Play/246d1f3eb5a044d8a8c8a767cb80c5941d)
+
 Før du begynner må du sørge for at du har adminrettigheter
 
 1. Installere python 3.8.10
