@@ -8,12 +8,18 @@ Før du begynner må du sørge for at du har adminrettigheter
     2. Velg «3.8.10»
     3. Klikk på eplet->"About this mac" for å finne ut om du har intel eller apple-chip.
     4. Velg filen «macOS 64-bit Intel installer» eller  «macOS 64-bit universal2 installer» avhengig av om du har intel eller ikke.
-    5. Installer.
+    5. Velg MacOS
+    6. Installer "homebrew":
+        1.  Følg lenken og kopier kommandoen ved å trykke på kopieringsknappen til høyre for kommandoen
+        2.  Åpne kommandovinduet (Åpne finder og skriv "terminal" i søkefeltet og åpne Terminal)
+        3.  Lim inn teksten du kopierte og trykk enter
+    4.  Gå tilbake i nettleseren til git-siden og kopier kommandoen i rødt.
+    5.  Lim den inn i Terminal og trykk enter
   
 2. Installere git
     1. Google ["install download git"](https://www.google.com/search?q=install+download+git){:target="blank"}
     2. Velg "Downloads - Git"
-    3. Last ned for Mac og installer for alle brukere (krever elevering/admin login)
+    3. 
   
 3. Installere Jupyter lab
     1. åpne kommandovinduet: Åpne finder og skriv "terminal" i søkefeltet og åne terminal. 
