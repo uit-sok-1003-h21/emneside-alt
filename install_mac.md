@@ -50,5 +50,5 @@ kopi av notebooks-folderen hvor du kan gjøre egne endringer som ikke overskrive
 6. For å åpne filene i "notebooks_edit"-mappen i jupyter lab skriver du
 ```
 cd notebooks_edit
-jupyter notebook
+jupyter lab
 ```
