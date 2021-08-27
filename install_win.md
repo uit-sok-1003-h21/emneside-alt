@@ -11,8 +11,9 @@
   
 2. Installere git
     1. Google ["install download git"](https://www.google.com/search?q=install+download+git){:target="blank"}
-    2. Velg "Downloads - Git"
-    3. Last ned for windows og installer for alle brukere (krever elevering/admin login)
+        ... eller bare gå direkte til siden [her](https://git-scm.com/downloads){:target="blank"}
+    3. Velg "Downloads - Git"
+    4. Last ned for windows og installer for alle brukere (krever elevering/admin login)
   
 3. Installere Jupyter lab
     1. åpne kommandovinduet: Skriv "cmd" i søkefeltet på maskinen, HØYREKLIKK og start "Command Promt"/"Ledetekst" SOM ADMIN. 
