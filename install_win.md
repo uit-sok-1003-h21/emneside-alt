@@ -3,6 +3,8 @@
 
 [Se video her!](https://mediasite.uit.no/Mediasite/Play/636342e259e441ffa5776b2ec3ebf29c1d)
 
+(Jeg har endret litt på "oppskriften" under etter at videoen ble spilt inn. Det er nå lenker direkte til installasjonsidene istedet for til Google)
+
 1. Installere python 3.8.10
     1. Gå til [installasjonssiden for Python 3.8.10](https://www.python.org/downloads/release/python-3810/){:target="blank"}
     3. Velg filen «Windows x86-64 executable installer»  
