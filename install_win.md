@@ -4,15 +4,12 @@
 [Se video her!](https://mediasite.uit.no/Mediasite/Play/636342e259e441ffa5776b2ec3ebf29c1d)
 
 1. Installere python 3.8.10
-    1. Google [«install python 3.8.10»](https://www.google.com/search?q=install+python+3.8.10){:target="blank"} og velg «3.8.10» 
-        ... eller bare gå direkte til siden [her](https://www.python.org/downloads/release/python-3810/){:target="blank"}
+    1. Gå til [installasjonssiden](https://www.python.org/downloads/release/python-3810/){:target="blank"}
     3. Velg filen «Windows x86-64 executable installer»  
     4. Installer for alle brukere (krever elevering/admin login) og **hak av for å legge til "PATH"**. 
   
 2. Installere git
-    1. Google ["install download git"](https://www.google.com/search?q=install+download+git){:target="blank"}
-        ... eller bare gå direkte til siden [her](https://git-scm.com/downloads){:target="blank"}
-    3. Velg "Downloads - Git"
+    1. Gå til [installasjonsiden](https://git-scm.com/downloads){:target="blank"}
     4. Last ned for windows og installer for alle brukere (krever elevering/admin login)
   
 3. Installere Jupyter lab
