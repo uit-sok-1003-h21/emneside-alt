@@ -5,8 +5,7 @@
 
 1. Installere python 3.8.10
     1. Google [«install python 3.8.10»](https://www.google.com/search?q=install+python+3.8.10){:target="blank"} og velg «3.8.10» 
-    
-    ... eller bare gå direkte til siden [her](https://www.python.org/downloads/release/python-3810/){:target="blank"}
+        ... eller bare gå direkte til siden [her](https://www.python.org/downloads/release/python-3810/){:target="blank"}
     3. Velg filen «Windows x86-64 executable installer»  
     4. Installer for alle brukere (krever elevering/admin login) og **hak av for å legge til "PATH"**. 
   
