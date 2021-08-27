@@ -3,6 +3,8 @@
 
 [Se video her!](https://mediasite.uit.no/Mediasite/Play/246d1f3eb5a044d8a8c8a767cb80c5941d)
 
+(Jeg har endret litt på "oppskriften" under etter at videoen ble spilt inn. Det er nå lenker direkte til installasjonsidene istedet for til Google)
+
 Før du begynner må du sørge for at du har adminrettigheter
 
 1. Installere python 3.8.10
