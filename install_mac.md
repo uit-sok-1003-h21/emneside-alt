@@ -6,8 +6,7 @@
 Før du begynner må du sørge for at du har adminrettigheter
 
 1. Installere python 3.8.10
-    1. Google [«install python 3.8.10»](https://www.google.com/search?q=install+python+3.8.10){:target="blank"}
-    2. Velg «3.8.10»
+    1. Gå til [installasjonssiden for Python 3.8.10](https://www.python.org/downloads/release/python-3810/){:target="blank"}
     3. Klikk på eplet->"About this mac" for å finne ut om du har intel eller apple-chip.
     4. Velg filen «macOS 64-bit Intel installer» eller  «macOS 64-bit universal2 installer» avhengig av om du har intel eller ikke.
     5. Velg MacOS
@@ -19,9 +18,12 @@ Før du begynner må du sørge for at du har adminrettigheter
     5.  Lim den inn i Terminal og trykk enter
   
 2. Installere git
-    1. Google ["install download git"](https://www.google.com/search?q=install+download+git){:target="blank"}
-    2. Velg "Downloads - Git"
-    3. 
+    1. Gå til [installasjonssiden for git](https://www.google.com/search?q=install+download+git){:target="blank"}
+    2. Velg "MacOS"
+    3. Åpne "Terminal" på din Mac (Søk evt. etter "Terminal" på "My Mac" i Finder)
+    4. Følg instruksjonene, og legg spesielt merke til at
+        1. du må installere "homebrew" først, før du kan installere git
+        2. Når du skal installere "homebrew" blir du bedt om et passord i terminalen. Skriv passordet ditt
   
 3. Installere Jupyter lab
     1. åpne kommandovinduet: Åpne finder og skriv "terminal" i søkefeltet og åne terminal. 
