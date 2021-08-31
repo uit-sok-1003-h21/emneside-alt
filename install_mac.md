@@ -6,7 +6,6 @@
 
 ## 1. Installere python 3.8.10
 Før du begynner må du sørge for at du har adminrettigheter
-(Jeg har endret litt på "oppskriften" under etter at videoen ble spilt inn. Det er nå lenker direkte til installasjonsidene istedet for til Google)
 
 1. Gå til [installasjonssiden for Python 3.8.10](https://www.python.org/downloads/release/python-3810/){:target="blank"}
 3. Klikk på eplet->"About this mac" for å finne ut om du har intel eller apple-chip.
@@ -19,19 +18,22 @@ Før du begynner må du sørge for at du har adminrettigheter
 4.  Gå tilbake i nettleseren til git-siden og kopier kommandoen i rødt.
 5.  Lim den inn i Terminal og trykk enter
   
+(Jeg har endret litt på "oppskriften" etter at videoen ble spilt inn. Det er nå lenker direkte til installasjonsidene istedet for til Google)
  
 ## 2. Installere git
-    1. Gå til [installasjonssiden for git](https://www.google.com/search?q=install+download+git){:target="blank"}
-    2. Velg "MacOS"
-    3. Åpne "Terminal" på din Mac (Søk evt. etter "Terminal" på "My Mac" i Finder)
-    4. Følg instruksjonene, og legg spesielt merke til at
-        1. du må installere "homebrew" først, før du kan installere git
-        2. Når du skal installere "homebrew" blir du bedt om et passord i terminalen. Skriv passordet ditt
+
+1. Gå til [installasjonssiden for git](https://www.google.com/search?q=install+download+git){:target="blank"}
+2. Velg "MacOS"
+3. Åpne "Terminal" på din Mac (Søk evt. etter "Terminal" på "My Mac" i Finder)
+4. Følg instruksjonene, og legg spesielt merke til at
+    1. du må installere "homebrew" først, før du kan installere git
+    2. Når du skal installere "homebrew" blir du bedt om et passord i terminalen. Skriv passordet ditt
   
 ## 3. Installere Jupyter lab
-    1. åpne kommandovinduet: Åpne finder og skriv "terminal" i søkefeltet og åne terminal. 
-    2. Skriv inn "sodu -H pip3 install jupyterlab" ("sodu -H" er for å installere det som admin, slik at du kan åpne jupyter med kommandoen "jupyter")
-    3. Skriv inn passord
+
+1. åpne kommandovinduet: Åpne finder og skriv "terminal" i søkefeltet og åne terminal. 
+2. Skriv inn "sodu -H pip3 install jupyterlab" ("sodu -H" er for å installere det som admin, slik at du kan åpne jupyter med kommandoen "jupyter")
+3. Skriv inn passord
 
 ## 4. Hente kursmateriell fra github
 
