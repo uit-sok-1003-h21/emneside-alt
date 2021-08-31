@@ -5,21 +5,21 @@
 
 ## 1. Installere python 3.8.10
 
-    1. Gå til [installasjonssiden for Python 3.8.10](https://www.python.org/downloads/release/python-3810/){:target="blank"}
-    3. Velg filen «Windows x86-64 executable installer»  
-    4. Installer for alle brukere (krever elevering/admin login) og **hak av for å legge til "PATH"**. 
+1. Gå til [installasjonssiden for Python 3.8.10](https://www.python.org/downloads/release/python-3810/){:target="blank"}
+3. Velg filen «Windows x86-64 executable installer»  
+4. Installer for alle brukere (krever elevering/admin login) og **hak av for å legge til "PATH"**. 
     
 (Jeg har endret litt på "oppskriften" under etter at videoen ble spilt inn. Det er nå lenker direkte til installasjonsidene istedet for til Google)
 
 ## 2. Installere git
 
-    1. Gå til [installasjonsiden for git](https://git-scm.com/downloads){:target="blank"}
-    4. Last ned for windows og installer for alle brukere (krever elevering/admin login)
+1. Gå til [installasjonsiden for git](https://git-scm.com/downloads){:target="blank"}
+4. Last ned for windows og installer for alle brukere (krever elevering/admin login)
   
 ## 3. Installere Jupyter lab
 
-    1. åpne kommandovinduet: Skriv "cmd" i søkefeltet på maskinen, HØYREKLIKK og start "Command Promt"/"Ledetekst" SOM ADMIN. 
-    2. Skriv inn `pip install jupyterlab`
+1. åpne kommandovinduet: Skriv "cmd" i søkefeltet på maskinen, HØYREKLIKK og start "Command Promt"/"Ledetekst" SOM ADMIN. 
+2. Skriv inn `pip install jupyterlab`
 
 ## 4. Hente kursmateriell fra github
 
