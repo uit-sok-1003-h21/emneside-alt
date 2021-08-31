@@ -9,7 +9,7 @@
 3. Velg filen «Windows x86-64 executable installer»  
 4. Installer for alle brukere (krever elevering/admin login) og **hak av for å legge til "PATH"**. 
     
-(Jeg har endret litt på "oppskriften" under etter at videoen ble spilt inn. Det er nå lenker direkte til installasjonsidene istedet for til Google)
+(Jeg har endret litt på "oppskriften" etter at videoen ble spilt inn. Det er nå lenker direkte til installasjonsidene istedet for til Google)
 
 ## 2. Installere git
 
