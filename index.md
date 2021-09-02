@@ -15,7 +15,7 @@ Kurset tas normalt i første høstsemester, og teller 5 studiepoeng.
 
 Edgardo Vidal Salinas (seminar/studenthjelp, <aedgardo.d.salinas@uit.no>, <berlin1980e@gmail.com>)
 
-Edgardo har kontortid Torsdager
+Edgardo har også kontortid, der studentene kan stille spørsmål om de har behov (ikke obligatorisk!). Se timeplan. 
 
 
 ## Pensum  
