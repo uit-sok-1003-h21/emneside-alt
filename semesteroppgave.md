@@ -1,3 +1,4 @@
+{% include navbar_open.html %}
 # Semesteroppgave/prosjekt
 
 Bruk det du har lært i dette kurset til å automatisere et problem eller hente inn data og fremstille det grafisk. I begge tilfeller må prosjektet inneholde følgende (i en Jupyter notantbok):
