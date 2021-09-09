@@ -17,4 +17,4 @@ På Wiseflow leveres pdf av notatboken (bruk eksportfunksjonen i Jupyter).
 22/10 skal dere levere en skisse til prosjektet. Denne skal ikke inneholde kode, kun forklare hva dere har tenkt til å gjøre, på ca. én side. 
 Innleveringsfrist for selve oppgaven er 3/12. 
 
-Dere kan levere i grupper på opptil 5 personer.
+Dere kan levere i grupper på opptil 3 personer.
