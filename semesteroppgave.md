@@ -1,7 +1,7 @@
 {% include navbar_open.html %}
 # Semesteroppgave/prosjekt
 
-Bruk det du har lært i dette kurset til å automatisere et problem eller hente inn data og fremstille det grafisk. I begge tilfeller må prosjektet inneholde følgende (i en Jupyter notantbok):
+Bruk det du har lært i dette kurset til å automatisere et problem eller hente inn data og fremstille det grafisk. I begge tilfeller må prosjektet inneholde følgende (i en Jupyter notatbok):
 
 1. En innledning der det forklares hvorfor dette er interessant
 2. En del der littarturen gjennomgås. Det vil si at dere går gjennom hvor og hvem som har gjort lignende ting før og eventuelt hvilke datakilder som er relevante. Kilder kan være både nettsider, nyhettsaker, lærebøker og akademiske artikler.
