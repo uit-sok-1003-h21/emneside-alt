@@ -18,4 +18,3 @@ På Wiseflow leveres pdf av notatboken (bruk eksportfunksjonen i Jupyter).
 Innleveringsfrist for selve oppgaven er 3/12. 
 
 Dere kan levere i grupper på opptil 5 personer.
-
