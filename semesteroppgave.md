@@ -14,7 +14,7 @@ All kode skal kunne kjøres direkte, etter å ha klonet prosjektet til en lokal 
 Prosjektet leveres som et Jupyter-prosjekt, som lastes opp til github og Wiseflow (mer informasjon om hvordan dere skal laste opp på github kommer senere). 
 På Wiseflow leveres pdf av notatboken (bruk eksportfunksjonen i Jupyter).
 
-22/10 skal dere levere en skisse til prosjektet. Denne skal ikke inneholde kode, kun forklare hva dere har tenkt til å gjøre, på ca. én side. 
+Innen 22/10 skal dere levere en skisse til prosjektet. Denne skal ikke inneholde kode, kun forklare hva dere har tenkt til å gjøre, på ca. én side. 
 Innleveringsfrist for selve oppgaven er 3/12. 
 
 Dere kan levere i grupper på opptil 3 personer.
