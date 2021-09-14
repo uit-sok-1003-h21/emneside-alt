@@ -20,7 +20,7 @@ Innleveringsfrist for selve oppgaven er 3/12.
 
 Dere kan levere i grupper på opptil 3 personer.
 
-# Mulig problemstillinger:
+# Mulige problemstillinger:
 
 Her er en liste over mulige problemstillinger. Dere kan velge én av disse, en kombinasjon eller finne på noe selv:
 
