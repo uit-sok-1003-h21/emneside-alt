@@ -4,7 +4,7 @@ Slik lager du et githubrepositorie, og dyttet arbeidet ditt til github. [Se ogs�
 
 ## Lage git-repositorie:
 1. Lag en githubkonto (du trenger ikke bruke din uit-mail, det er valgfritt)
-2. Logg på `jupyter.uit.no`, og åpne ny Terminal (+), og naviger dit du vil ha repositoriet på jupyter med `cd <mappenavn>`.
+2. Logg på `jupyter.uit.no`, og åpne ny Terminal (+), og naviger dit du vil ha repositoriet på jupyter med `cd <mappenavn>` (se [tips og triks.md](https://github.com/uit-sok-1003-h21/notebooks/blob/main/tips_og_triks.md) for hvordan du navigerer i Terminal.) 
 3. Konfigurer git med e-posten til kontoen og ditt brukernavn (bytt ut klammeparentesene med e-posten og brukernavnet til githubkontoen):
 ```
 git config --global user.email "<e-post>"
@@ -23,7 +23,7 @@ Du må også gi til oss, slik at vi kan se repositoriet ditt:
 Når du er på nettsiden til repositoriet, gåt til "Settings", og så "Manage access", og legg til "espensirnes" og "Kfmoss"
  
 ## Dytte repositoriet til github:
-1. Naviger til repositoriemappen i Terminal (se avsnitt 1.)
+1. Naviger til repositoriemappen i Terminal (se [tips og triks.md](https://github.com/uit-sok-1003-h21/notebooks/blob/main/tips_og_triks.md) for hvordan du navigerer i Terminal.) 
 2. Kjør i Terminal:
 ```
 git add .
