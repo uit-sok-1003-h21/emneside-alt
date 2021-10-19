@@ -17,6 +17,10 @@ git config --global user.name "<brukernavn>"
 
  Du kan nå redigere repositoriet ditt
  
+## Gi tilgang til faglærer/seminarleder
+Du må også gi til oss, slik at vi kan se repositoriet ditt:
+
+Når du er på nettsiden til repositoriet, gåt til "Settings", og så "Manage access", og legg til "espensirnes" og "Kfmoss"
  
 ## Dytte repositoriet til github:
 1. Naviger til repositoriemappen i Terminal (se avsnitt 1.)
