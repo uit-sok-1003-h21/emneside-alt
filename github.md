@@ -1,6 +1,7 @@
-Her er prosedyren for å lage et githubrepositorie, og dytte arbeidet ditt til github. [Se også video](https://mediasite.uit.no/Mediasite/Play/facdd492ea4b4ceaa239fcfac56cd8941d) 
+# Slik leverer du arbeidskrav på github:
+Slik lager du et githubrepositorie, og dyttet arbeidet ditt til github. [Se også video](https://mediasite.uit.no/Mediasite/Play/facdd492ea4b4ceaa239fcfac56cd8941d) 
 
-# Lage git-repositorie:
+## Lage git-repositorie:
 1. Lag en githubkonto (du trenger ikke bruke din uit-mail, det er valgfritt)
 2. Logg på `jupyter.uit.no`, og åpne ny Terminal (+), og naviger dit du vil ha repositoriet på jupyter med `cd <mappenavn>`.
 3. Konfigurer git med e-posten til kontoen og ditt brukernavn (bytt ut klammeparentesene med e-posten og brukernavnet til githubkontoen):
@@ -16,7 +17,7 @@ git config --global user.name "<brukernavn>"
  Du kan nå redigere repositoriet ditt
  
  
-# Dytte repositoriet til github:
+## Dytte repositoriet til github:
 1. Naviger til repositoriemappen i Terminal (se avsnitt 1.)
 2. Kjør i Terminal:
 ```
