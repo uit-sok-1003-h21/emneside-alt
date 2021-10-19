@@ -30,6 +30,6 @@ git add .
 git commit -m "New repository"
 git push 
 ```
-      
-      
+Om du gjør endringer, og skal oppdatere repositoriet senere, kjører du samme prosedyre som over, men du kan endre teksten "New repository" til noe som beskriver oppdateringen.  
+
  
