@@ -16,6 +16,6 @@
 |Arbeidskrav 6        | Oppslag, Pandas, logikk, filtrering og betingelser <br>(Dictionaries & Pandas,Logic, Control Flow and Filtering)  | 11/11 kl. 16.00   |[DataCamp](https://learn.datacamp.com/){:target="blank"}|
 |Arbeidskrav 7        | Løkker/Simulering  (Loops, Case Study: Hacker Statistics)| 25/11 kl. 16.00   |[DataCamp](https://learn.datacamp.com/){:target="blank"}|
 |Innlevering prosjekt|                                              | 3/12 kl. 16.00    | [GitHub](https://github.com/uit-sok-1003-h21)/[Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}|
-|Muntlig              |Oppgaven<br>Pensum                                  | etter 3/12 <br>(må koordineres)|Oppmøte                         |
+|Muntlig              |Oppgaven<br>Pensum                                  | 8-10. desember |Kommer                         |
 
 
