@@ -29,3 +29,21 @@ Her er en liste over mulige problemstillinger. Dere kan velge én av disse, en k
 * Lage en funksjon som tar parameter for etterspørselsfunksjonen, og som visualiserer inntektsfunksjonen, grenseinntekt og priselastistet, og som identifiserer hvor etterspørseslfunksjonen er elastisk, nøytralelastisk og uelastisk. 
 * Finn interessante data som lastes inn med pandas og plottes med matplotlib, der plottet påvirkes av argumentene til funksjonen. 
 
+# Skriftlig vurdering
+Karakter gis ut fra følgende tre kriterier: 
+* I hvilken grad oppgaven er besvart i henhold til beskrivelsen over. 
+* I hvilken grad alle deler av pensum er brukt på en hensiktsmessig og riktig måte 
+* For å få en toppkarakter må gruppen/kandidaten vise god vurderingsevne og stor grad av selvstendighet. Det vil si at oppgaven gir et bidrag som er spesielt intressant og relevant. 
+
+Det er ingen minste lengde på oppgaven. Det avgjørende er om den er godt besvart. 
+
+# Muntlig vurdering
+* Den muntlige eksamenen skjer på Zoom (på grunn av universitetets regler).
+* Det legges først og fremst vekt på faglig kunnskap i den muntlige vurderingen
+* Gruppen/kandidaten må kunne forklare og presentere oppgaven på en enkel og presis måte. 
+* I grupper med flere, må alle medlemmene ha eierskap til prosjektet og kunne svare hver for seg om alle detaljer. 
+* Det vil i tillegg blir spurt om ting fra pensum generelt.
+* Dere skal IKKE lage power-point, men dere kan bruke jupyter. 
+
+
+(Se forøvrig de offisielle karakterkriteriene.)[https://www.uhr.no/_f/p1/i47fd1bbe-ab38-4e5f-bdf2-58bcf015a5ef/vurderingskriterier_bacheloroppgaven_060814_korrigert.pdf] 
