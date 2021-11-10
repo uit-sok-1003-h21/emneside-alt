@@ -46,4 +46,4 @@ Det er ingen minste lengde på oppgaven. Det avgjørende er om den er godt besva
 * Dere skal IKKE lage power-point, men dere kan bruke jupyter. 
 
 
-(Se forøvrig de offisielle karakterkriteriene.)[https://www.uhr.no/_f/p1/i47fd1bbe-ab38-4e5f-bdf2-58bcf015a5ef/vurderingskriterier_bacheloroppgaven_060814_korrigert.pdf] 
+[Se forøvrig de offisielle karakterkriteriene.](https://www.uhr.no/_f/p1/i47fd1bbe-ab38-4e5f-bdf2-58bcf015a5ef/vurderingskriterier_bacheloroppgaven_060814_korrigert.pdf) 
