@@ -10,15 +10,21 @@ Bruk det du har lært i dette kurset til å automatisere et problem eller hente 
 5. En oppsummering/konklusjon
 
 
-Prosjektet leveres som et Jupyter-prosjekt, som lastes opp til github og Wiseflow (mer informasjon om hvordan dere skal laste opp på github kommer senere). 
-På Wiseflow leveres pdf av notatboken (bruk eksportfunksjonen i Jupyter).
+# Slik leverer du:
+Prosjektet leveres som et Jupyter-prosjekt, som lastes opp til github og Wiseflow. Koden skal kunne kjøres direkte i Jupyter, etter at prosjekte er klonet fra github. På Wiseflow leveres pdf av notatboken (bruk eksportfunksjonen i Jupyter). 
 
-Koden skal kunne kjøres direkte i Jupyter, etter at prosjekte er klonet fra github.
+FØLGENDE NAVN PÅ PROSJEKTET MÅ BRUKES: SOK-1003-eksamen-2021. 
 
 Innen 22/10 skal dere levere en skisse til prosjektet. Denne skal ikke inneholde kode, kun forklare hva dere har tenkt til å gjøre, på ca. én side. 
 Innleveringsfrist for selve oppgaven er 3/12. 
 
 Dere kan levere i grupper på opptil 3 personer.
+
+# Slik leverer du:
+Prosjektet leveres som et Jupyter-prosjekt, som lastes opp til github og Wiseflow (mer informasjon om hvordan dere skal laste opp på github kommer senere). 
+På Wiseflow leveres pdf av notatboken (bruk eksportfunksjonen i Jupyter). 
+
+
 
 # Mulige problemstillinger:
 
