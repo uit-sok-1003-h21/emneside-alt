@@ -20,8 +20,7 @@ Innleveringsfrist for selve oppgaven er 3/12.
 
 Dere kan levere i grupper på opptil 3 personer.
 
-# Slik leverer du:
-Prosjektet leveres som et Jupyter-prosjekt, som lastes opp til github og Wiseflow (mer informasjon om hvordan dere skal laste opp på github kommer senere). 
+Prosjektet leveres som et Jupyter-prosjekt eller python fil (\*.py), som lastes opp til github og Wiseflow (mer informasjon om hvordan dere skal laste opp på github kommer senere). 
 På Wiseflow leveres pdf av notatboken (bruk eksportfunksjonen i Jupyter). 
 
 
