@@ -62,7 +62,7 @@ Karakter A-E, med F som stryk, fastsettes basert på et prosjekt som gjøres i g
 På den muntlige eksamen vil studenten også få spørsmål om pensum generelt. 
 
 
-[Her finner du informasjon om frister og hvordan du leverer arbeidskrav og prosjekt, og dato for muntlig](frister.md){:target="blank"}. 
+[Her finner du informasjon om frister og hvordan du leverer arbeidskrav og prosjekt, og dato for muntlig](semesteroppgave.md){:target="blank"}. 
 
 Merk at prosjektet leveres BÅDE i GitHub og på Wiseflow.
 
